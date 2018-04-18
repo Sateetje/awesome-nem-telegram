@@ -2,7 +2,7 @@
 
 [<img src="https://github.com/Sateetje/awesome-nem-projects/blob/master/awesome-nem.png" align="right" width="100">](https://nem.io)
 
-> A curated list of Telegram channels related to NEM (New Economy Movement). This list doesn't contain project specific channels.
+> A curated list of Telegram channels related to NEM. This list doesn't contain project specific channels.
 
 ## Contents
 * [Countries](#countries)
