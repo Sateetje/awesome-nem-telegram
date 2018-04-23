@@ -89,6 +89,7 @@
 * [Slovak Republic](https://t.me/nemczsk)
 * [Spain](https://t.me/nemspanish)
 * [Thailand](https://t.me/nemthai)
+* [The Netherlands](https://t.me/NEMdutch)
 * [Turkiye](https://t.me/NEMTurkiye)
 * [UK](https://t.me/NEMuk)
 * [Ukraine](https://t.me/NEMUkraine)
