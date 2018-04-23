@@ -73,6 +73,7 @@
 * [Japan](https://t.me/nemjapan)
 * [Kazakhstan](https://t.me/Nemkz)
 * [Korea](https://t.me/NEMKorea)
+* [Latin America](https://t.me/NemLATAM)
 * [Malaysia](https://t.me/NEMMalaysia)
 * [Mexico](http://bit.ly/NEMmexico)
 * [Middle East](https://t.me/NEMUAE)
