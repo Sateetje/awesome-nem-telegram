@@ -77,7 +77,7 @@
 * [Latin America](https://t.me/NemLATAM)
 * [Malaysia](https://t.me/NEMMalaysia)
 * [Mexico](http://bit.ly/NEMmexico)
-* [Middle East](https://t.me/NEMUAE)
+* [Middle East](https://t.me/NEMMiddleEast)
 * [Myanmar](http://bit.ly/NEMMyanmar)
 * [New Zealand](https://t.me/NEMNZ)
 * [Pakistan](http://bit.ly/NEMPakistan)
